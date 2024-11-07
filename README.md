@@ -5,7 +5,8 @@
 [ 详细文档点击这里 ](https://github.com/thx/gogocode/blob/main/docs/specification/basic.zh.md)
 
 ## What is GoGoCode?
-全网最简单易上手，可读性最强的处理工具
+全网最简单易上手
+
 [中文 README](README-cn.md)
 
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
